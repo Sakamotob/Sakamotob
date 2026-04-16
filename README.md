@@ -52,6 +52,12 @@
 
 <h4 align="left">🔥​WELCOME TO MY GITHUB!!!🔥​</h4>
 
+###
+
+<h4 align="left">Funny fact: I LOVE CATS! 🐱​</h4>
+
+###
+
 <br clear="both">
 
 <div align="center">
