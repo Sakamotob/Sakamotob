@@ -38,6 +38,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="194" src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif"  />
+
+###
+
 <h4 align="left">📫 How to reach me: pedrobergaminisaka@gmail.com</h4>
 
 ###
@@ -48,17 +54,9 @@
 
 <br clear="both">
 
-<img align="right" height="194" src="https://media1.tenor.com/m/25ykirk3P4YAAAAd/oz-oz-yarimasu.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Sakamotob /Sakamotob /output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakamotob &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sakamotob &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakamotob &locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sakamotob &locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
