@@ -6,6 +6,8 @@
 
 ###
 
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 <h3 align="center">These are the technologies I am studying right now:</h3>
 
 ###
@@ -42,6 +44,14 @@
 
 ###
 
+<h4 align="left">🔥​WELCOME TO MY GITHUB!!!🔥​</h4>
+
+###
+
+<h4 align="left">I am passionate about technology and I am always seeking to evolve and improve as a programmer. ​</h4>
+
+###
+
 <h4 align="left">📫 How to reach me: pedrobergaminisaka@gmail.com</h4>
 
 ###
@@ -50,13 +60,11 @@
 
 ###
 
-<h4 align="left">🔥​WELCOME TO MY GITHUB!!!🔥​</h4>
-
-###
-
 <h4 align="left">Funny fact: I LOVE CATS! 🐱​</h4>
 
 ###
+
+<p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <br clear="both">
 
