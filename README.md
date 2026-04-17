@@ -70,8 +70,8 @@
 
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sakamotob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sakamotob" /></p>
-    <p><img align="center" src="https://streak-stats.demolab.com/?user=Sakamotob&theme=dark&hide_border=false)<br/" /></p>
     <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=Sakamotob&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
+    <p><img align="center" src="https://streak-stats.demolab.com/?user=Sakamotob&theme=dark&hide_border=false)<br/" /></p>
 </div>
 
 ###
